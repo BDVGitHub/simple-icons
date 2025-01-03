@@ -12380,6 +12380,12 @@
 		"source": "https://www.pointy.com/ie/vend"
 	},
 	{
+		"title": "Polar",
+		"hex": "000000",
+		"source": "https://studio.polar.com/bank/polar.com_press_room/polar_logo/logos"
+		"guidelines": "https://studio.polar.com/bank/polar.com_press_room/polar_logo/logos/Using_Polar_logo.pdf"
+	},
+	{
 		"title": "Polars",
 		"hex": "CD792C",
 		"source": "https://pola.rs"
